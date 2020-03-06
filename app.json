@@ -1,0 +1,5 @@
+{
+  "name": "Sockethook",
+  "description": "A Go app to relay webhook posts to a websocket",
+  "repository": "https://github.com/wgu-labs/sockethook"
+}
